@@ -30,7 +30,7 @@ setup(
         'numpy >= 1.11.1',
         'pandas',
         'scikit-learn',
-        'tensorflow',
+        'tensorflow == 2.12.0',
         'tensorflow-probability',
         'tqdm',
     ],
