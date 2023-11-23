@@ -31,7 +31,7 @@ setup(
         'pandas',
         'scikit-learn',
         'tensorflow == 2.12.0',
-        'tensorflow-probability',
+        'tensorflow-probability == 0.20.1',
         'tqdm',
     ],
     classifiers=[
